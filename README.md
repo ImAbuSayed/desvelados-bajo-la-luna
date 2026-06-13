@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desvelados-bajo-la-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Desvelados bajo la luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desvelados-bajo-la-luna/) |
+| **Get License** | [Get License For Desvelados bajo la luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desvelados-bajo-la-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna llena la noche me llama
+> El deseo que quema prendiendo la llama
+> Tu mirada cruzando y rompiendo el cristal
+> Este fuego en la pista se siente brutal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
