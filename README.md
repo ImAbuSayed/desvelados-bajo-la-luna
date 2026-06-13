@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/desvelados-bajo-la-luna/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Desvelados bajo la luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desvelados-bajo-la-luna/) |
+| **Get License** | [Request Licensing for Desvelados bajo la luna](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/desvelados-bajo-la-luna/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b94d7a45029dca373771cce26f2c792d0f700ed7270df2dfd522716bd693cf51` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

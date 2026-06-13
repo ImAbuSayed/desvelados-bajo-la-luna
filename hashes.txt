@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Desvelados bajo la luna
+
+This log tracks the cryptographic history and versioning for the song **Desvelados bajo la luna** (desvelados-bajo-la-luna).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T03:47:13.769699 | `v1` | `b94d7a45029dca373771cce26f2c792d0f700ed7270df2dfd522716bd693cf51` | `55392e694a743347a871bb7f2c77b830b0cda8c10074ee8816fcb79cf69b2d58` | `2026-06-14_desvelados-bajo-la-luna-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
